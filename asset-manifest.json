@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7514f88a.css",
-    "main.js": "/static/js/main.d4cbc0ea.js",
-    "static/js/453.a3c90972.chunk.js": "/static/js/453.a3c90972.chunk.js",
-    "index.html": "/index.html",
-    "main.7514f88a.css.map": "/static/css/main.7514f88a.css.map",
-    "main.d4cbc0ea.js.map": "/static/js/main.d4cbc0ea.js.map",
-    "453.a3c90972.chunk.js.map": "/static/js/453.a3c90972.chunk.js.map"
+    "main.css": "/samsungwebsiteclone/static/css/main.7514f88a.css",
+    "main.js": "/samsungwebsiteclone/static/js/main.ec263187.js",
+    "static/js/453.a3c90972.chunk.js": "/samsungwebsiteclone/static/js/453.a3c90972.chunk.js",
+    "index.html": "/samsungwebsiteclone/index.html",
+    "main.7514f88a.css.map": "/samsungwebsiteclone/static/css/main.7514f88a.css.map",
+    "main.ec263187.js.map": "/samsungwebsiteclone/static/js/main.ec263187.js.map",
+    "453.a3c90972.chunk.js.map": "/samsungwebsiteclone/static/js/453.a3c90972.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7514f88a.css",
-    "static/js/main.d4cbc0ea.js"
+    "static/js/main.ec263187.js"
   ]
 }
